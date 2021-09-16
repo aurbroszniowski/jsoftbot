@@ -9,7 +9,7 @@ async function main() {
 
     let balance = await wallet.getBalance();
     console.log("balance = " + ethers.utils.formatEther(balance));
-    console.log(wallet.address);
+    console.log("Your wallet public address (as seen in Metamask): " + wallet.address);
 }
 
 main();
