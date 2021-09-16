@@ -1,0 +1,2 @@
+# jsoftbot
+Blockchain Trading Bot
