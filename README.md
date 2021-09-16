@@ -1,5 +1,5 @@
-# jsoftbot
-##Blockchain Trading Bot
+# jSoft Bot
+## Blockchain Trading Bot
 
 This is the code for the tutorial : "Learn dApp coding by writing a Blockchain Trading Bot"
 
