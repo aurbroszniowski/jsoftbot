@@ -1,0 +1,17 @@
+{
+  "name": "jsoftbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsoftbot.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aurelien Broszniowski",
+  "dependencies": {
+    "ethers": "^5.4.6"
+  }
+}
